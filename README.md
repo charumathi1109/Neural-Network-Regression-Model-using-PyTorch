@@ -98,7 +98,8 @@ print("\nRegression experiment completed successfully!")
 
 **Output screenshots**
   <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bea880a9-7d87-4519-a4c5-a46a2c40a327" />
-     
+  <img width="956" height="403" alt="Screenshot 2026-10-23 122413" src="https://github.com/user-attachments/assets/223fc61d-82a4-4698-b7c9-8107cb42c15a" />
+
 **Result**
 
 Thus, the neural network regression model was implemented successfully using PyTorch, and the training loss versus iteration graph was plotted.
